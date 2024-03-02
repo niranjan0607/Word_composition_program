@@ -2,7 +2,7 @@
 
 ### 1. Compile the Code 
    ```bash
-    g++ -o comp_word_prog comp_word.cpp
+    g++ -o comp_word comp_word.cpp
    ```
   
 ### 2. Prepare Input File: 
@@ -10,7 +10,7 @@ Ensure that the input file "Input_01.txt"/"Input_02.txt" containing the list of 
 
 ### 3. Run the Program:
 ```bash
-    ./comp_word_prog
+    ./comp_word
    ```
 ### 4. View Output:
 The program will output the longest and second longest compounded words along with the execution time.
